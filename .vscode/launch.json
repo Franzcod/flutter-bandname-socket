@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "band_names0820 (Flutter)",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
